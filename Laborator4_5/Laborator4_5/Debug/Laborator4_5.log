@@ -1,0 +1,14 @@
+﻿  Evidenta.cpp
+  Laborator4_5.cpp
+  Repo.cpp
+  test.cpp
+C:\Users\Macrina\source\repos\Laborator4_5\Laborator4_5\test.cpp(11,27): error C2664: 'Evidenta::Evidenta(const Evidenta &)': cannot convert argument 1 from 'int' to 'char *'
+C:\Users\Macrina\source\repos\Laborator4_5\Laborator4_5\test.cpp(11,14): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\Macrina\source\repos\Laborator4_5\Laborator4_5\Evidenta.h(11,2): message : see declaration of 'Evidenta::Evidenta'
+C:\Users\Macrina\source\repos\Laborator4_5\Laborator4_5\test.cpp(14,26): error C2664: 'Evidenta::Evidenta(const Evidenta &)': cannot convert argument 1 from 'int' to 'char *'
+C:\Users\Macrina\source\repos\Laborator4_5\Laborator4_5\test.cpp(14,14): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\Macrina\source\repos\Laborator4_5\Laborator4_5\Evidenta.h(11,2): message : see declaration of 'Evidenta::Evidenta'
+C:\Users\Macrina\source\repos\Laborator4_5\Laborator4_5\test.cpp(17,27): error C2664: 'Evidenta::Evidenta(const Evidenta &)': cannot convert argument 1 from 'int' to 'char *'
+C:\Users\Macrina\source\repos\Laborator4_5\Laborator4_5\test.cpp(17,14): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\Macrina\source\repos\Laborator4_5\Laborator4_5\Evidenta.h(11,2): message : see declaration of 'Evidenta::Evidenta'
+  Generating Code...
